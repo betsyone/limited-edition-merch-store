@@ -1,4 +1,3 @@
-Limited Edition Merch Store
 Welcome to the Limited Edition Merch Store! This PHP-based e-commerce application is designed for showcasing and selling exclusive merchandise. Below you'll find instructions on how to set up and get started with the application.
 
 Installation
